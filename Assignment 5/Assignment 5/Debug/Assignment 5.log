@@ -1,0 +1,5 @@
+﻿  Implement.cpp
+  test.cpp
+  Generating Code...
+F:\discrete structures\Assignment 5\Assignment 5\Implement.cpp(84): warning C4715: 'coord2d::operator[]': not all control paths return a value
+  Assignment 5.vcxproj -> F:\discrete structures\Assignment 5\Debug\Assignment 5.exe
