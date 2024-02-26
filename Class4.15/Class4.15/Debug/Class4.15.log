@@ -1,0 +1,116 @@
+﻿  bstTesting.cpp
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(33,13): error C2059: syntax error: ')'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(41,3): error C2143: syntax error: missing ';' before 'int'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(33,13): error C2143: syntax error: missing ';' before '}'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(41): message : see reference to class template instantiation 'BST<T>' being compiled
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(33,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(20,10): error C3861: 'root': identifier not found
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(21,28): error C3861: 'root': identifier not found
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(23,41): error C3861: 'root': identifier not found
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(26,53): error C3861: 'root': identifier not found
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(27,51): error C3861: 'root': identifier not found
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(28,55): error C3861: 'root': identifier not found
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(29,43): error C3861: 'root': identifier not found
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(30,41): error C3861: 'root': identifier not found
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(41,20): error C2270: 'size': modifiers not allowed on nonmember functions
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(41,34): error C2065: 'root': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(44,31): error C2270: 'numOneChildNodes': modifiers not allowed on nonmember functions
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(44,57): error C2065: 'root': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(47,21): error C2270: 'height': modifiers not allowed on nonmember functions
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(47,37): error C2065: 'root': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(50,6): error C2588: '::~BST': illegal global destructor
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(50,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(50,23): error C2065: 'root': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(50,11): error C3861: 'destroyTree': identifier not found
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(50,30): warning C4508: 'BST': function should return a value; 'void' return type assumed
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(51,1): error C2059: syntax error: 'private'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(52,11): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(52,2): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(53,28): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(53,19): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(54,11): error C3646: 'subtree': unknown override specifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(55,2): error C3646: 'treeroot': unknown override specifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(58,30): error C2664: 'void destroyTree(TreeNode *)': cannot convert argument 1 from 'TreeNode<T> *' to 'TreeNode *'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(58,24): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(53,7): message : see declaration of 'destroyTree'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(59,31): error C2664: 'void destroyTree(TreeNode *)': cannot convert argument 1 from 'TreeNode<T> *' to 'TreeNode *'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(59,24): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(53,7): message : see declaration of 'destroyTree'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(63,22): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(63,13): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(63,41): error C2270: 'height': modifiers not allowed on nonmember functions
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(65,20): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(65,11): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(65,39): error C2270: 'size': modifiers not allowed on nonmember functions
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(67,32): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(67,23): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(67,51): error C2270: 'numOneChildNodes': modifiers not allowed on nonmember functions
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(69,23): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(69,14): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(69,39): error C2061: syntax error: identifier 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(69,47): error C2270: 'search': modifiers not allowed on nonmember functions
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(71,23): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(71,14): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(71,40): error C2061: syntax error: identifier 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(73,33): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(73,24): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(73,43): error C2270: 'inorderTraversal': modifiers not allowed on nonmember functions
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(74,34): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(74,25): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(74,44): error C2270: 'preorderTraversal': modifiers not allowed on nonmember functions
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(75,35): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(75,26): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(75,45): error C2270: 'postorderTraversal': modifiers not allowed on nonmember functions
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(76,29): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(76,20): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(76,39): error C2270: 'bfsTraversal': modifiers not allowed on nonmember functions
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(77,28): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(77,19): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(77,58): error C2270: 'displayTree': modifiers not allowed on nonmember functions
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(78,1): error C2059: syntax error: '}'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(78,1): error C2143: syntax error: missing ';' before '}'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(80,8): error C2988: unrecognizable template declaration/definition
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(80,8): error C2143: syntax error: missing ';' before '<'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(80,5): error C2373: 'BST': redefinition; different type modifiers
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(50): message : see declaration of 'BST'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(80,8): error C2059: syntax error: '<'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(80,29): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(80,20): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(81,1): error C2143: syntax error: missing ';' before '{'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(81,1): error C2447: '{': missing function header (old-style formal list?)
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(93,8): error C2988: unrecognizable template declaration/definition
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(93,8): error C2143: syntax error: missing ';' before '<'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(93,5): error C2373: 'BST': redefinition; different type modifiers
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(50): message : see declaration of 'BST'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(93,8): error C2059: syntax error: '<'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(93,39): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(93,30): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(94,1): error C2143: syntax error: missing ';' before '{'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(94,1): error C2447: '{': missing function header (old-style formal list?)
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(108,8): error C2988: unrecognizable template declaration/definition
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(108,8): error C2143: syntax error: missing ';' before '<'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(108,5): error C2373: 'BST': redefinition; different type modifiers
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(50): message : see declaration of 'BST'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(108,8): error C2059: syntax error: '<'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(108,27): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(108,18): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(110,1): error C2143: syntax error: missing ';' before '{'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(110,1): error C2447: '{': missing function header (old-style formal list?)
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(118,9): error C2988: unrecognizable template declaration/definition
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(118,9): error C2143: syntax error: missing ';' before '<'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(118,6): error C2373: 'BST': redefinition; different type modifiers
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(50): message : see declaration of 'BST'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(118,9): error C2059: syntax error: '<'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(118,14): error C2039: 'search2': is not a member of '`global namespace''
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(119,1): error C2143: syntax error: missing ';' before '{'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(119,1): error C2447: '{': missing function header (old-style formal list?)
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(135,9): error C2988: unrecognizable template declaration/definition
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(135,9): error C2143: syntax error: missing ';' before '<'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(135,6): error C2373: 'BST': redefinition; different type modifiers
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(50): message : see declaration of 'BST'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(135,9): error C2059: syntax error: '<'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(135,30): error C2065: 'T': undeclared identifier
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(135,21): error C2923: 'TreeNode': 'T' is not a valid template type argument for parameter 'T'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(137,1): error C2143: syntax error: missing ';' before '{'
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(137,1): error C2447: '{': missing function header (old-style formal list?)
+F:\in class programs csci106\Class4.15\Class4.15\bst.h(137,1): fatal error C1003: error count exceeds 100; stopping compilation
