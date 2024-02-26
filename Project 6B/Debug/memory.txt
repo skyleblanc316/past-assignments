@@ -1,0 +1,16 @@
+5
+garrett
+griffin
+100
+jordan
+lee
+90
+jenny
+kim
+65
+ryan
+hom
+100
+john
+kim
+70

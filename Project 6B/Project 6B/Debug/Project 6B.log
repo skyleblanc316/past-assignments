@@ -1,0 +1,8 @@
+﻿  Main.cpp
+F:\Project 6B\Project 6B\Main.cpp(124,16): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+F:\Project 6B\Project 6B\Main.cpp(134,35): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+F:\Project 6B\Project 6B\Main.cpp(137,35): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+F:\Project 6B\Project 6B\Main.cpp(153,34): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+F:\Project 6B\Project 6B\Main.cpp(157,34): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+F:\Project 6B\Project 6B\Main.cpp(42,9): warning C4101:  'average': unreferenced local variable
+  Project 6B.vcxproj -> F:\Project 6B\Debug\Project 6B.exe
