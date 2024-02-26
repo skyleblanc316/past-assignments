@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\discrete structures\FinalTesting\FinalTesting\Source.cpp(106,20): warning C4018: '<': signed/unsigned mismatch
+F:\discrete structures\FinalTesting\FinalTesting\Source.cpp(125,11): error C2660: 'BST<int>::height': function does not take 0 arguments
+F:\discrete structures\FinalTesting\FinalTesting\list.h(25,6): message : see declaration of 'BST<int>::height'
