@@ -1,0 +1,5 @@
+﻿  Source.cpp
+F:\opperations and assembly\Program 3\Program 3\Source.cpp(15,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\opperations and assembly\Program 3\Program 3\Source.cpp(44,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\opperations and assembly\Program 3\Program 3\Source.cpp(139,27): warning C4018: '<': signed/unsigned mismatch
+  Program 3.vcxproj -> F:\opperations and assembly\Program 3\Debug\Program 3.exe

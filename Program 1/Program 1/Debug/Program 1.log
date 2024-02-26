@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\opperations and assembly\Program 1\Program 1\Source.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+F:\opperations and assembly\Program 1\Program 1\Source.cpp(84,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Program 1.vcxproj -> F:\opperations and assembly\Program 1\Debug\Program 1.exe
